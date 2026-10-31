@@ -35,7 +35,7 @@ Keep changes focused. Explain the behavior being changed and the compatibility r
 
 ## License
 
-By contributing, you agree that your contribution is licensed under the MIT License in [LICENSE](./LICENSE).
+By contributing, you agree that your contribution is licensed under the GNU General Public License, version 3 only, as described in [LICENSE](./LICENSE).
 
 ## Code of conduct
 

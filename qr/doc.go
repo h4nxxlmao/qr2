@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+
 // Package qr implements QR Model 2 encoding, matrix construction, mask
 // selection, Reed-Solomon error correction, and a self-check decoder.
 //

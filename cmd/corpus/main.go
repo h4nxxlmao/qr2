@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+
 // Command corpus generates PNG images and a manifest for independent decoder
 // verification. It is a development tool, not part of the WASM build.
 package main

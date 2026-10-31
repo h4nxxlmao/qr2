@@ -1,5 +1,7 @@
 //go:build js && wasm
 
+// SPDX-License-Identifier: GPL-3.0-only
+
 // Command engine is the browser entry point. It exposes a small JSON API on
 // globalThis.qrEngine and keeps the Go runtime alive for repeated calls.
 package main

@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+
 // Package render turns a qr.Symbol into an SVG document.
 //
 // The default output is a square QR code with a four-module quiet zone. Spec

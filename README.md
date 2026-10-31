@@ -193,6 +193,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md). Before opening a pull request, run the
 
 ## License
 
-MIT. See [LICENSE](./LICENSE).
+qr2 is licensed under the GNU General Public License, version 3 only (GPL-3.0-only). See [LICENSE](./LICENSE).
+
+Copyright (C) 2026 hanx.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 QR Code is a registered trademark of DENSO WAVE INCORPORATED. This project is an independent implementation and is not affiliated with or endorsed by DENSO WAVE.

@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+
 package qr
 
 // GF(256) with primitive polynomial x^8 + x^4 + x^3 + x^2 + 1 (0x11D).

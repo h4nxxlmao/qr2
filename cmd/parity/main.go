@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+
 // Command parity writes the native-Go expectations used by the WASM parity
 // harness. It must stay in sync with the request shape in cmd/engine.
 package main

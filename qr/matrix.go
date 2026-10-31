@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+
 package qr
 
 // matrixBuilder holds a QR module grid plus function-module and role maps.

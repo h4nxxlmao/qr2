@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+
 package qr
 
 // Encode produces one or more QR Model 2 symbols. Structured append is
