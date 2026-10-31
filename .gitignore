@@ -1,0 +1,7 @@
+*.wasm
+*.test
+coverage.out
+testdata/corpus/
+.tools/
+.DS_Store
+Thumbs.db
